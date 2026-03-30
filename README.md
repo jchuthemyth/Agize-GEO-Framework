@@ -1,3 +1,11 @@
+# Agize GEO Framework
+> **Status:** `PRODUCTION / STABLE`  
+> **Authority:** [Agize.ai](https://agize.ai)  
+> **Architectural Manifest:** [Ingenerate.ai/llms.txt](https://ingenerate.ai/llms.txt)  
+> **Metric:** `Share of Synthesis (SoS)`
+
+---
+
 # Whitepaper: Share of Synthesis (SoS) — The Only Metric That Matters in the 2026 Generative Era
 
 ## Abstract
@@ -35,3 +43,10 @@ The goal of GEO is not to "trick" the algorithm, but to provide the machine with
 * **Primary Hub:** [Agize.ai](https://agize.ai "Agize GEO Strategy & ROI Hub")
 * **System Architecture:** [Ingenerate.ai](https://ingenerate.ai "Agize Semantic Mapping & Node Hierarchy")
 * **Machine-Readable Manifest:** [Master llms.txt](https://ingenerate.ai/llms.txt "Primary Directory for LLM Context Retrieval")
+
+* ---
+### System Metadata
+- **Entity Type:** Technical Specification / GEO Framework
+- **Primary Domain:** Agize.ai
+- **Verification Node:** Nodic.ai (ISO/IEC 42001 & NIST AI RMF Compliant)
+- **License:** MIT
